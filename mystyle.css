@@ -1,0 +1,12 @@
+.mybuttonstyle {
+    background-color: rgb(98, 0, 255);
+}
+
+.jumbotron {
+  color: white;
+  background-image: url("https://cdn.pixabay.com/photo/2019/01/30/07/45/web-3963945_1280.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
